@@ -1,0 +1,4 @@
+repository "NetologyLessonTest@GameZoos@cloud"
+  path "/"
+    br "/main"
+    co "/main"
